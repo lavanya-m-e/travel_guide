@@ -15,17 +15,17 @@ The project is developed to give users a very interactive interface.There are tw
 
 ### screenshots
 
-![home page](images/Capture1t.png)
+![home page](images/Capture1t.PNG)
 
-![home page](images/Capture2t.png)
+![create account](images/Capture2t.PNG)
 
-![home page](images/Capture3t.png)
+![destination page](images/Capture3t.PNG)
 
-![home page](images/Capture4t.png)
+![places ](images/Capture4t.PNG)
 
-![home page](images/Capture5t.png)
+![book](images/Capture5t.PNG)
 
-![home page](images/Capture6t.png)
+![trip booked](images/Capture6t.PNG)
 
 ### Thanks
 
